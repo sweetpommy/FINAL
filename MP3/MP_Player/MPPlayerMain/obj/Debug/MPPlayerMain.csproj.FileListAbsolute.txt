@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.Form1.resources
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.Properties.Resources.resources
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\bin\Debug\MPPlayerMain.exe.config
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\bin\Debug\MPPlayerMain.exe
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\bin\Debug\MPPlayerMain.pdb
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.exe
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.pdb
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\user\Desktop\C# Final\MP3\MP_Player\MPPlayerMain\obj\Debug\MPPlayerMain.csprojResolveAssemblyReference.cache
